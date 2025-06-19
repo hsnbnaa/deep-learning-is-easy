@@ -2,7 +2,7 @@
 
 > **Penulis**: *Aurélien Géron*  
 > **Topik**: Machine Learning, Deep Learning, Python Programming  
-> **Edisi**: Ketiga (3rd Edition)
+> **Edisi**: Kedua (2nd Edition)
 
 ---
 
